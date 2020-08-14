@@ -1,6 +1,6 @@
 # Health Data Analytics and Machine Learning: pre-course preparation resources
 
-# Table of Contents
+## Table of Contents
 1. [General advice](#general_advice)
 2. [How to spend your preparation time](#prep_time)
 3. [Setting up your computer](#cpu_setup-example)
