@@ -1,12 +1,13 @@
 # Health Data Analytics and Machine Learning: pre-course preparation resources
 
-- General advice
+<details><summary>General advice</summary>
 
 # General advice
 
 The term 1 modules will give you a solid foundation in epidemiology, statistics, and handling healthcare data, with an introduction to molecular epidemiology and some basic machine learning modelling. Our students have a highly diverse range of backgrounds, and there will always be some students with very little experience of each particular subject. So don't panic if you haven't, for example, studied epidemiology before. The modules start with the basics and, if you work hard, you will be on a steep learning curve and will reach a high level of understanding by the end of term 1, even from a standing start.
 
 With that said, you have the opportunity to lower the gradient of your learning curve by doing some preparatory study ahead of the course in areas that you are less familiar with. This page aims to give you some pointers on how to spend that pre-course preparation time.
+</details>
 
 - Choosing how to spend your preparation time
 
