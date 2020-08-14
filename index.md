@@ -15,19 +15,19 @@ Everything we do on the HDA course is underpinned by an ability to code. As with
 
 The HDA course primarily uses R, and there are numerous free or cheap resources online for getting started. Here are a selection of the best:
 
-[Free R Tutorial - R Basics - R Programming Language Introduction](https://www.udemy.com/course/r-basics/)
+**[Free R Tutorial - R Basics - R Programming Language Introduction](https://www.udemy.com/course/r-basics/)
 
 Excellent intro to R, starting from the very beginning. Free to take the course – you only have to pay if you want the certificate.
 
-[Free R Tutorial - R, ggplot, and Simple Linear Regression](https://www.udemy.com/course/machlearn1/)
+**[Free R Tutorial - R, ggplot, and Simple Linear Regression](https://www.udemy.com/course/machlearn1/)
 
 A gentle introduction to using R for data manipulation, visualisation, statistics and simple ML. Free to take the course – you only have to pay if you want the certificate.
 
-[](https://cran.r-project.org/doc/contrib/Verzani-SimpleR.pdf)
+**[R for statistics](https://cran.r-project.org/doc/contrib/Verzani-SimpleR.pdf)
 
 A really thorough guide to using R for statistics
 
-[erikgahner/awesome-ggplot2](https://github.com/erikgahner/awesome-ggplot2)
+**[erikgahner/awesome-ggplot2](https://github.com/erikgahner/awesome-ggplot2)
 
 A great curated list of resources for R programming
 
@@ -39,27 +39,27 @@ While the term 1 statistics course starts with the basics, the whole HDA course 
 
 Here are some useful stats and linear algebra resources:
 
-[Statistics with R](https://www.coursera.org/specializations/statistics)
+**[Statistics with R](https://www.coursera.org/specializations/statistics)
 
 Kill two birds with one stone – this course teaches statistics as applied in R
 
-[Biostatistics in Public Health: Coursera](https://www.coursera.org/specializations/biostatistics-public-health)
+**[Biostatistics in Public Health: Coursera](https://www.coursera.org/specializations/biostatistics-public-health)
 
 A more epi/biostats focus, but still useful
 
-[Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning)
+**[Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning)
 
 Most of machine learning is underpinned by linear algebra, and having a grasp of the core principles will help you understand ML models better. This course provides a thorough grounding in linear algebra for ML
 
-[3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
+**[3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 
 Great youtube channel with stats/ML instructional videos
 
-[StatQuest with Josh Starmer](https://www.youtube.com/user/joshstarmer)
+**[StatQuest with Josh Starmer](https://www.youtube.com/user/joshstarmer)
 
 Another great statistics youtube channel
 
-[Statistics and Probability: Khan Academy](https://www.khanacademy.org/math/statistics-probability)
+**[Statistics and Probability: Khan Academy](https://www.khanacademy.org/math/statistics-probability)
 
 For starting from the basics, Khan Academy has excellent tutorials
 
@@ -74,15 +74,15 @@ You will be extensively using R throughout the year, a widely used programming l
 
 First download and install R (version 3.6.1) from the CRAN.
 
-[R for Mac OS X](https://cran.r-project.org/bin/macosx/)
+**[R for Mac OS X](https://cran.r-project.org/bin/macosx/)
 
 For Mac users
 
-[Download R-4.0.2 for Windows. The R-project for statistical computing.](https://cran.r-project.org/bin/windows/base/)
+**[Download R-4.0.2 for Windows. The R-project for statistical computing.](https://cran.r-project.org/bin/windows/base/)
 
 For Windows users
 
-[The Comprehensive R Archive Network](https://cran.r-project.org)
+**[The Comprehensive R Archive Network](https://cran.r-project.org)
 
 For Linux users
 
@@ -90,7 +90,7 @@ For Linux users
 
 R Studio is an integrated development environment for R. You can download the Open Source R Studio Desktop from this link:
 
-[Download RStudio](https://www.rstudio.com/products/rstudio/download/)
+**[Download RStudio](https://www.rstudio.com/products/rstudio/download/)
 
 ### Install required packages in R
 
@@ -144,7 +144,7 @@ Once you have run all these lines of code, please make sure that all the package
 - **Gordis Epidemiology.** Gordis, L. (2014).  Philadelphia, PA: Elsevier Saunders (approx. £35). Available to purchase from: [https://www.uk.elsevierhealth.com/epidemiology-9781455737338.html](https://www.uk.elsevierhealth.com/epidemiology-9781455737338.html)
 - **Epidemiology: Beyond the Basics.** Ward H, Toledano M, Shaddick G, Davies B, Elliott P (2012) . Oxford University Press, Oxford UK. (Amazon price £26).
 
-**Oxford Handbook of Epidemiology for Clinicians.** Ward et al. [https://oxfordmedicine.com/view/10.1093/med/9780198529880.001.0001/med-9780198529880](https://oxfordmedicine.com/view/10.1093/med/9780198529880.001.0001/med-9780198529880)
+- **Oxford Handbook of Epidemiology for Clinicians.** Ward et al. [https://oxfordmedicine.com/view/10.1093/med/9780198529880.001.0001/med-9780198529880](https://oxfordmedicine.com/view/10.1093/med/9780198529880.001.0001/med-9780198529880)
 
 - **Essential epidemiology: an introduction for students and health professionals.** Webb, P., Bain, C. and Page, A., 2016. . Cambridge University Press. [https://www.amazon.co.uk/Essential-Epidemiology-Introduction-Students-Professionals/dp/0521177316](https://www.amazon.co.uk/Essential-Epidemiology-Introduction-Students-Professionals/dp/0521177316)
 
