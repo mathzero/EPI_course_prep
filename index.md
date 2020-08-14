@@ -134,7 +134,7 @@ There are two main repositories of R packages (sets of built-in R functions): th
     ```
 
 Once you have run all these lines of code, please make sure that all the packages have been properly installed. They should all be listed in the “Packages” tab (bottom right hand quadrant of R Studio):
-
+<img src="https://github.com/mathzero/HDA_course_prep/blob/master/Screenshot%202020-08-14%20at%2016.25.52.png?raw=true" />
 ![Screenshot of installed packages](https://github.com/mathzero/HDA_course_prep/blob/master/Screenshot%202020-08-14%20at%2016.25.52.png?raw=true)
 
 ## Term 1 reading list
