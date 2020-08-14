@@ -2,10 +2,10 @@
 
 # Table of Contents
 1. [General advice](#general_advice)
-2. [Example2](#example2)
-3. [Third Example](#third-example)
-4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
-
+2. [How to spend your preparation time](#prep_time)
+3. [Setting up your computer](#cpu_setup-example)
+4. [Fourth Example](#reading_list)
+5. [Advice from previous HDA students](#student_advice)
 
 ## General advice <a name="general_advice"></a>
 
@@ -14,7 +14,7 @@ The term 1 modules will give you a solid foundation in epidemiology, statistics,
 With that said, you have the opportunity to lower the gradient of your learning curve by doing some preparatory study ahead of the course in areas that you are less familiar with. This page aims to give you some pointers on how to spend that pre-course preparation time.
 
 
-## Choosing how to spend your preparation time
+## Choosing how to spend your preparation time <a name="prep_time"></a>
 
 ### Learning to code
 
@@ -71,7 +71,7 @@ Another great statistics youtube channel
 For starting from the basics, Khan Academy has excellent tutorials
 
 
-## Computer set-up
+## Computer set-up <a name="cpu_setup"></a>
 
 We will have a dedicated session in the induction week where we will guide you through installing all the required software and packages. However, if you want to do this in advance of starting the course, here 's what you need to do.
 
@@ -143,7 +143,7 @@ There are two main repositories of R packages (sets of built-in R functions): th
 Once you have run all these lines of code, please make sure that all the packages have been properly installed. They should all be listed in the “Packages” tab (bottom right hand quadrant of R Studio):
 ![Screenshot of installed packages](Screenshot%202020-08-14%20at%2016.25.52.png)
 
-## Term 1 reading list
+## Term 1 reading list <a name="reading_list"></a>
 
 ### Epidemiology
 
@@ -173,7 +173,7 @@ Chapters 2–5 will support what you learn in the term 1 statistics module.
 
 
 
-## Advice from previous HDA students
+## Advice from previous HDA students <a name="student_advice"></a>
 
 We asked students on the 2019–2020 HDA course what advice they would give their past selves before starting the course. Their responses are below.
 
