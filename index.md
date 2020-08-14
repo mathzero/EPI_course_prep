@@ -71,10 +71,10 @@ For starting from the basics, Khan Academy has excellent tutorials
 
 <details><summary>Setting up your computer and installing software</summary>
 
-
 # Computer set-up
 
 We will have a dedicated session in the induction week where we will guide you through installing all the required software and packages. However, if you want to do this in advance of starting the course, here 's what you need to do.
+
 
 ## R INSTALLATION
 
