@@ -68,9 +68,6 @@ For starting from the basics, Khan Academy has excellent tutorials
 
 We will have a dedicated session in the induction week where we will guide you through installing all the required software and packages. However, if you want to do this in advance of starting the course, here 's what you need to do.
 
-
-## R INSTALLATION
-
 You will be extensively using R throughout the year, a widely used programming language for statistical analyses and machine learning (see [https://www.r-project.org/about.html](https://www.r-project.org/about.html)). In this session, we are going to install R, R Studio, and the main R packages that you will be using throughout the year on your laptops.
 
 ### Installing R
