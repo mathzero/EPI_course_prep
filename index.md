@@ -42,7 +42,7 @@ A great curated list of resources for R programming
 
 ### Statistics
 
-While the term 1 statistics course starts with the basics, the whole HDA course is based around a solid understanding of statistics and many concepts can take time to digest. So, if your stats is a bit rusty, you can make things easier on yourself by brushing ahead of the course. When you get to the machine learning module, and understanding of linear algebra will be a great asset. The course does provide optional maths refreshers in term one, which cover linear algebra, but if you haven't studied it before then some pre-course revision may well be beneficial.
+While the term 1 statistics course starts with the basics, the whole HDA course is based around a solid understanding of statistics and many concepts can take time to digest. So, if your stats is a bit rusty, you can make things easier on yourself by brushing ahead of the course. When you get to the machine learning module, an understanding of linear algebra will be a great asset. The course does provide optional maths refreshers in term one, which cover linear algebra, but if you haven't studied it before then some pre-course revision may well be beneficial.
 
 Here are some useful stats and linear algebra resources:
 
@@ -56,7 +56,7 @@ A more epi/biostats focus, but still useful
 
 **[Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning)**
 
-Most of machine learning is underpinned by linear algebra, and having a grasp of the core principles will help you understand ML models better. This course provides a thorough grounding in linear algebra for ML
+This course provides a thorough grounding in linear algebra for ML
 
 **[3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)**
 
@@ -79,7 +79,7 @@ You will be extensively using R throughout the year, a widely used programming l
 
 ### Installing R
 
-First download and install R (version 3.6.1) from the CRAN.
+First download and install R (version 4.0.2) from the CRAN.
 
 **[R for Mac OS X](https://cran.r-project.org/bin/macosx/)**
 
