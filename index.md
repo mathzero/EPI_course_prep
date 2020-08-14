@@ -170,14 +170,14 @@ Chapters 2–5 will support what you learn in the term 1 statistics module.
 
 We asked students on the 2019–2020 HDA course what advice they would give their past selves before starting the course. Their responses are below.
 
-## Before starting the course
+### Before starting the course
 
 - My advice would be: if you are a biologist and have not done maths in a while, take a linear algebra course as a MOOC maybe. If you have questions, ask! Never be afraid of being curious!
 - Don’t be disheartened when you don’t have a clue what’s happening in R or python if you have zero prior coding experience - it’s a steep learning curve but you’ll pick it up. Coding is the sort of thing where there’s a certain level of understanding beyond which everything just seems very understandable, and before that level it just seems super overwhelming. Just the ability to understand the syntax in R and the different nuances etc gives you the ability to understand and search every problem on stack overflow. You don’t need to know a load of functions off by heart.
 - If possible, do some of the data camp courses BEFORE starting the MSc
 - Take an intro linear algebra course and don’t just rely on the math refreshers
 
-## Throughout the course
+### Throughout the course
 
 - Organise and document everything during projects: scripts, data, notes etc. You will definitely revisit old code and old notes
 - Be proactive, ask question and use the resources that are made available to you (the people around you and the lecturers)
