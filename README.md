@@ -1,6 +1,6 @@
 # Health Data Analytics and Machine Learning: pre-course preparation resources
 
-- General advice
+
 
     # General advice
 
@@ -8,7 +8,6 @@
 
     With that said, you have the opportunity to lower the gradient of your learning curve by doing some preparatory study ahead of the course in areas that you are less familiar with. This page aims to give you some pointers on how to spend that pre-course preparation time.
 
-- Choosing how to spend your preparation time
 
     ## Choosing how to spend your preparation time
 
@@ -66,7 +65,6 @@
 
     For starting from the basics, Khan Academy has excellent tutorials
 
-- Setting up your computer and installing software
 
     # Computer set-up
 
@@ -143,7 +141,6 @@
 
     ![Health%20Data%20Analytics%20and%20Machine%20Learning%20pre-cou%203a9f671690494295ba5a4a913310e1ab/Untitled.png](Health%20Data%20Analytics%20and%20Machine%20Learning%20pre-cou%203a9f671690494295ba5a4a913310e1ab/Untitled.png)
 
-- Reading list
 
     # Term 1 reading list
 
@@ -173,9 +170,8 @@
 
     - Hands-on programming with R, Garrett Grolemund. [https://rstudio-education.github.io/hopr/index.html](https://rstudio-education.github.io/hopr/index.html)
 
-- Advice from previous HDA students
 
-    ## Advice from previous HDA students
+    # Advice from previous HDA students
 
     We asked students on the 2019–2020 HDA course what advice they would give their past selves before starting the course. Their responses are below.
 
