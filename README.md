@@ -9,7 +9,7 @@ The term 1 modules will give you a solid foundation in epidemiology, statistics,
 With that said, you have the opportunity to lower the gradient of your learning curve by doing some preparatory study ahead of the course in areas that you are less familiar with. This page aims to give you some pointers on how to spend that pre-course preparation time.
 </details>
 
-- Choosing how to spend your preparation time
+<details><summary>Choosing how to spend your preparation time</summary>
 
 ## Choosing how to spend your preparation time
 
@@ -67,7 +67,10 @@ Another great statistics youtube channel
 
 For starting from the basics, Khan Academy has excellent tutorials
 
-- Setting up your computer and installing software
+</details>
+
+<details><summary>Setting up your computer and installing software</summary>
+
 
 # Computer set-up
 
@@ -144,7 +147,10 @@ Once you have run all these lines of code, please make sure that all the package
 
 ![Health%20Data%20Analytics%20and%20Machine%20Learning%20pre-cou%203a9f671690494295ba5a4a913310e1ab/Untitled.png](Health%20Data%20Analytics%20and%20Machine%20Learning%20pre-cou%203a9f671690494295ba5a4a913310e1ab/Untitled.png)
 
-- Reading list
+</details>
+
+<details><summary>Reading list</summary>
+
 
 # Term 1 reading list
 
@@ -174,7 +180,11 @@ Chapters 2–5 will support what you learn in the term 1 statistics module.
 
 - Hands-on programming with R, Garrett Grolemund. [https://rstudio-education.github.io/hopr/index.html](https://rstudio-education.github.io/hopr/index.html)
 
-- Advice from previous HDA students
+</details>
+
+<details><summary>Advice from previous HDA students</summary>
+
+
 
 # Advice from previous HDA students
 
@@ -200,3 +210,5 @@ We asked students on the 2019–2020 HDA course what advice they would give thei
 - Revise the second term lectures such that there are some baby steps leading to the big equations
 - Summer quarter advice - make sure they have data you want to work with.
 - Advice for the thesis: get your references and stuff organised and maybe don’t wait too much before writing some stuff.
+
+</details>
