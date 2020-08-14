@@ -2,7 +2,7 @@
 
 - General advice
 
-    # General advice
+# General advice
 
     The term 1 modules will give you a solid foundation in epidemiology, statistics, and handling healthcare data, with an introduction to molecular epidemiology and some basic machine learning modelling. Our students have a highly diverse range of backgrounds, and there will always be some students with very little experience of each particular subject. So don't panic if you haven't, for example, studied epidemiology before. The modules start with the basics and, if you work hard, you will be on a steep learning curve and will reach a high level of understanding by the end of term 1, even from a standing start.
 
@@ -10,9 +10,9 @@
 
 - Choosing how to spend your preparation time
 
-    ## Choosing how to spend your preparation time
+## Choosing how to spend your preparation time
 
-    ### Learning to code
+### Learning to code
 
     Everything we do on the HDA course is underpinned by an ability to code. As with everything else, you will be well trained in coding throughout the course, and we do not assume or require any prior experience. However, in the very early stages of learning to code it can take a long time to solve simple problems, so you can certainly make things easier on yourself by getting through this very early stage before the course, so you're not doing the frustrating slow bit at the same time as studying epidemiology, statistics, etc.
 
@@ -36,7 +36,7 @@
 
     ---
 
-    ### Statistics
+### Statistics
 
     While the term 1 statistics course starts with the basics, the whole HDA course is based around a solid understanding of statistics and many concepts can take time to digest. So, if your stats is a bit rusty, you can make things easier on yourself by brushing ahead of the course. When you get to the machine learning module, and understanding of linear algebra will be a great asset. The course does provide optional maths refreshers in term one, which cover linear algebra, but if you haven't studied it before then some pre-course revision may well be beneficial.
 
@@ -68,15 +68,15 @@
 
 - Setting up your computer and installing software
 
-    # Computer set-up
+# Computer set-up
 
     We will have a dedicated session in the induction week where we will guide you through installing all the required software and packages. However, if you want to do this in advance of starting the course, here 's what you need to do.
 
-    ### R INSTALLATION
+## R INSTALLATION
 
     You will be extensively using R throughout the year, a widely used programming language for statistical analyses and machine learning (see [https://www.r-project.org/about.html](https://www.r-project.org/about.html)). In this session, we are going to install R, R Studio, and the main R packages that you will be using throughout the year on your laptops.
 
-    ### Installing R
+### Installing R
 
     First download and install R (version 3.6.1) from the CRAN.
 
@@ -92,13 +92,13 @@
 
     For Linux users
 
-    ### Installing RStudio
+### Installing RStudio
 
     R Studio is an integrated development environment for R. You can download the Open Source R Studio Desktop from this link:
 
     [Download RStudio](https://www.rstudio.com/products/rstudio/download/)
 
-    ### Install required packages in R
+### Install required packages in R
 
     There are two main repositories of R packages (sets of built-in R functions): the CRAN (Comprehensive R Archive Network) and Bioconductor. Once both R and R Studio are installed, you can open R Studio and install the required packages by running the following code:
 
@@ -145,9 +145,9 @@
 
 - Reading list
 
-    # Term 1 reading list
+# Term 1 reading list
 
-    ### Epidemiology
+### Epidemiology
 
     - **Epidemiology(Fifth edition.).** Szklo, M. and Nieto, F.J. (2014).  Burlington, Massachusetts,Jones & Bartlett Learning (approx. £93). Available to purchase from: [https://blackwells.co.uk/bookshop/product/9781449604691?gclid=Cj0KCQjwwqXMBRCDARIsAD-AQ2g9wGEkLUMAkkoIY_FO62AVEVFj2neeE93lnZKq--zCsJF7IuAp65kaAgAKEALw_wcB](https://blackwells.co.uk/bookshop/product/9781449604691?gclid=Cj0KCQjwwqXMBRCDARIsAD-AQ2g9wGEkLUMAkkoIY_FO62AVEVFj2neeE93lnZKq--zCsJF7IuAp65kaAgAKEALw_wcB)
     - **Gordis Epidemiology.** Gordis, L. (2014).  Philadelphia, PA: Elsevier Saunders (approx. £35). Available to purchase from: [https://www.uk.elsevierhealth.com/epidemiology-9781455737338.html](https://www.uk.elsevierhealth.com/epidemiology-9781455737338.html)
@@ -157,7 +157,7 @@
 
     - **Essential epidemiology: an introduction for students and health professionals.** Webb, P., Bain, C. and Page, A., 2016. . Cambridge University Press. [https://www.amazon.co.uk/Essential-Epidemiology-Introduction-Students-Professionals/dp/0521177316](https://www.amazon.co.uk/Essential-Epidemiology-Introduction-Students-Professionals/dp/0521177316)
 
-    ### Statistics
+### Statistics
 
     - **Essential Medical Statistics.** Kirkwood B and Sterne J (2003) (2nd ed). Blackwell Science Ltd. [https://www.amazon.co.uk/Essential-Medical-Statistics-Essentials-Kirkwood/dp/0865428719](https://www.amazon.co.uk/Essential-Medical-Statistics-Essentials-Kirkwood/dp/0865428719) 
     Chapters 2–5 will support what you learn in the term 1 statistics module.
@@ -169,24 +169,24 @@
     - Surkis et al. Research data management, J Med Libr Assoc. 2015 Jul; 103(3): 154–156. [https://dx.doi.org/10.3163%2F1536-5050.103.3.011](https://dx.doi.org/10.3163%2F1536-5050.103.3.011)
     - Mcardle et al. Research data management 'Green Shoots' pilot programme, final reports, Imperial College London. [https://spiral.imperial.ac.uk:8443/handle/10044/1/28409](https://spiral.imperial.ac.uk:8443/handle/10044/1/28409)
 
-    ### R programming
+### R programming
 
     - Hands-on programming with R, Garrett Grolemund. [https://rstudio-education.github.io/hopr/index.html](https://rstudio-education.github.io/hopr/index.html)
 
 - Advice from previous HDA students
 
-    ## Advice from previous HDA students
+# Advice from previous HDA students
 
     We asked students on the 2019–2020 HDA course what advice they would give their past selves before starting the course. Their responses are below.
 
-    ### Before starting the course
+## Before starting the course
 
     - My advice would be: if you are a biologist and have not done maths in a while, take a linear algebra course as a MOOC maybe. If you have questions, ask! Never be afraid of being curious!
     - Don’t be disheartened when you don’t have a clue what’s happening in R or python if you have zero prior coding experience - it’s a steep learning curve but you’ll pick it up. Coding is the sort of thing where there’s a certain level of understanding beyond which everything just seems very understandable, and before that level it just seems super overwhelming. Just the ability to understand the syntax in R and the different nuances etc gives you the ability to understand and search every problem on stack overflow. You don’t need to know a load of functions off by heart.
     - If possible, do some of the data camp courses BEFORE starting the MSc
     - Take an intro linear algebra course and don’t just rely on the math refreshers
 
-    ### Throughout the course
+## Throughout the course
 
     - Organise and document everything during projects: scripts, data, notes etc. You will definitely revisit old code and old notes
     - Be proactive, ask question and use the resources that are made available to you (the people around you and the lecturers)
