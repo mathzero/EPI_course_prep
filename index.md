@@ -4,7 +4,7 @@
 1. [General advice](#general_advice)
 2. [How to spend your preparation time](#prep_time)
 3. [Setting up your computer](#cpu_setup-example)
-4. [Fourth Example](#reading_list)
+4. [Reading list](#reading_list)
 5. [Advice from previous HDA students](#student_advice)
 
 ## General advice <a name="general_advice"></a>
