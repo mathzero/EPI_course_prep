@@ -1,15 +1,11 @@
 # Health Data Analytics and Machine Learning: pre-course preparation resources
 
-<details><summary>General advice</summary>
-
-# General advice
+## General advice
 
 The term 1 modules will give you a solid foundation in epidemiology, statistics, and handling healthcare data, with an introduction to molecular epidemiology and some basic machine learning modelling. Our students have a highly diverse range of backgrounds, and there will always be some students with very little experience of each particular subject. So don't panic if you haven't, for example, studied epidemiology before. The modules start with the basics and, if you work hard, you will be on a steep learning curve and will reach a high level of understanding by the end of term 1, even from a standing start.
 
 With that said, you have the opportunity to lower the gradient of your learning curve by doing some preparatory study ahead of the course in areas that you are less familiar with. This page aims to give you some pointers on how to spend that pre-course preparation time.
-</details>
 
-<details><summary>Choosing how to spend your preparation time</summary>
 
 ## Choosing how to spend your preparation time
 
@@ -67,11 +63,8 @@ Another great statistics youtube channel
 
 For starting from the basics, Khan Academy has excellent tutorials
 
-</details>
 
-<details><summary>Setting up your computer and installing software</summary>
-
-# Computer set-up
+## Computer set-up
 
 We will have a dedicated session in the induction week where we will guide you through installing all the required software and packages. However, if you want to do this in advance of starting the course, here 's what you need to do.
 
@@ -147,12 +140,7 @@ Once you have run all these lines of code, please make sure that all the package
 
 ![Screenshot of installed packages](https://github.com/mathzero/HDA_course_prep/blob/master/Screenshot%202020-08-14%20at%2016.25.52.png)
 
-</details>
-
-<details><summary>Reading list</summary>
-
-
-# Term 1 reading list
+## Term 1 reading list
 
 ### Epidemiology
 
@@ -180,13 +168,9 @@ Chapters 2–5 will support what you learn in the term 1 statistics module.
 
 - Hands-on programming with R, Garrett Grolemund. [https://rstudio-education.github.io/hopr/index.html](https://rstudio-education.github.io/hopr/index.html)
 
-</details>
-
-<details><summary>Advice from previous HDA students</summary>
 
 
-
-# Advice from previous HDA students
+## Advice from previous HDA students
 
 We asked students on the 2019–2020 HDA course what advice they would give their past selves before starting the course. Their responses are below.
 
@@ -211,4 +195,4 @@ We asked students on the 2019–2020 HDA course what advice they would give thei
 - Summer quarter advice - make sure they have data you want to work with.
 - Advice for the thesis: get your references and stuff organised and maybe don’t wait too much before writing some stuff.
 
-</details>
+
