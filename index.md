@@ -43,7 +43,7 @@ Here are some useful stats and linear algebra resources:
 
 Kill two birds with one stone – this course teaches statistics as applied in R
 
-[Biostatistics in Public Health | Coursera](https://www.coursera.org/specializations/biostatistics-public-health)
+[Biostatistics in Public Health: Coursera](https://www.coursera.org/specializations/biostatistics-public-health)
 
 A more epi/biostats focus, but still useful
 
@@ -59,7 +59,7 @@ Great youtube channel with stats/ML instructional videos
 
 Another great statistics youtube channel
 
-[Statistics and Probability | Khan Academy](https://www.khanacademy.org/math/statistics-probability)
+[Statistics and Probability: Khan Academy](https://www.khanacademy.org/math/statistics-probability)
 
 For starting from the basics, Khan Academy has excellent tutorials
 
@@ -135,7 +135,7 @@ There are two main repositories of R packages (sets of built-in R functions): th
 
 Once you have run all these lines of code, please make sure that all the packages have been properly installed. They should all be listed in the “Packages” tab (bottom right hand quadrant of R Studio):
 
-![Screenshot of installed packages](https://github.com/mathzero/HDA_course_prep/blob/master/Screenshot%202020-08-14%20at%2016.25.52.png)
+![Screenshot of installed packages](https://github.com/mathzero/HDA_course_prep/blob/master/Screenshot%202020-08-14%20at%2016.25.52.png?raw=true)
 
 ## Term 1 reading list
 
