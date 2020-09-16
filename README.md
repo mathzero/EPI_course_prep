@@ -1,5 +1,6 @@
 # Imperial MSc Epidemiology: pre-course preparation resources
 
+<details><summary>Choosing how to spend your preparation time</summary>
 ## Choosing how to spend your preparation time
 
 ### Learning to code
