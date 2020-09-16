@@ -4,7 +4,7 @@
 1. [How to spend your preparation time](#prep_time)
 2. [Setting up your computer](#cpu_setup-example)
 3. [Reading list](#reading_list)
-4. [Advice from previous HDA students](#student_advice)
+4. [Advice from previous students](#student_advice)
 
 
 
