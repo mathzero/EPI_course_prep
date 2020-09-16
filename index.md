@@ -1,4 +1,4 @@
-# Health Data Analytics and Machine Learning: pre-course preparation resources
+MSc Epidemiology: pre-course preparation resources
 
 ## Table of Contents
 1. [How to spend your preparation time](#prep_time)
