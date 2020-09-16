@@ -1,26 +1,18 @@
 # Health Data Analytics and Machine Learning: pre-course preparation resources
 
 ## Table of Contents
-1. [General advice](#general_advice)
-2. [How to spend your preparation time](#prep_time)
-3. [Setting up your computer](#cpu_setup-example)
-4. [Reading list](#reading_list)
-5. [Advice from previous HDA students](#student_advice)
+1. [How to spend your preparation time](#prep_time)
+2. [Setting up your computer](#cpu_setup-example)
+3. [Reading list](#reading_list)
+4. [Advice from previous HDA students](#student_advice)
 
-## General advice <a name="general_advice"></a>
-
-The term 1 modules will give you a solid foundation in epidemiology, statistics, and handling healthcare data, with an introduction to molecular epidemiology and some basic machine learning modelling. Our students have a highly diverse range of backgrounds, and there will always be some students with very little experience of each particular subject. So don't panic if you haven't, for example, studied epidemiology before. The modules start with the basics and, if you work hard, you will be on a steep learning curve and will reach a high level of understanding by the end of term 1, even from a standing start.
-
-With that said, you have the opportunity to lower the gradient of your learning curve by doing some preparatory study ahead of the course in areas that you are less familiar with. This page aims to give you some pointers on how to spend that pre-course preparation time.
 
 
 ## Choosing how to spend your preparation time <a name="prep_time"></a>
 
 ### Learning to code
 
-Everything we do on the HDA course is underpinned by an ability to code. As with everything else, you will be well trained in coding throughout the course, and we do not assume or require any prior experience. However, in the very early stages of learning to code it can take a long time to solve simple problems, so you can certainly make things easier on yourself by getting through this very early stage before the course, so you're not doing the frustrating slow bit at the same time as studying epidemiology, statistics, etc.
-
-The HDA course primarily uses R, and there are numerous free or cheap resources online for getting started. Here are a selection of the best:
+The MSc Epidemiology course primarily uses R, and there are numerous free or cheap resources online for getting started. Here are a selection of the best:
 
 **[Free R Tutorial - R Basics - R Programming Language Introduction](https://www.udemy.com/course/r-basics/)**
 
@@ -42,7 +34,7 @@ A great curated list of resources for R programming
 
 ### Statistics
 
-While the term 1 statistics course starts with the basics, the whole HDA course is based around a solid understanding of statistics and many concepts can take time to digest. So, if your stats is a bit rusty, you can make things easier on yourself by brushing ahead of the course. When you get to the machine learning module, an understanding of linear algebra will be a great asset. The course does provide optional maths refreshers in term one, which cover linear algebra, but if you haven't studied it before then some pre-course revision may well be beneficial.
+While the term 1 statistics course starts with the basics, the whole MSc Epidemiology course is based around a solid understanding of statistics and many concepts can take time to digest. So, if your stats is a bit rusty, you can make things easier on yourself by brushing ahead of the course. The course does provide optional maths refreshers in term one, which cover linear algebra, but if you haven't studied it before then some pre-course revision may well be beneficial.
 
 Here are some useful stats and linear algebra resources:
 
@@ -145,27 +137,11 @@ Once you have run all these lines of code, please make sure that all the package
 
 ## Term 1 reading list <a name="reading_list"></a>
 
-### Epidemiology
-
-- **Epidemiology(Fifth edition.).** Szklo, M. and Nieto, F.J. (2014).  Burlington, Massachusetts,Jones & Bartlett Learning (approx. £93). Available to purchase from: [https://blackwells.co.uk/bookshop/product/9781449604691?gclid=Cj0KCQjwwqXMBRCDARIsAD-AQ2g9wGEkLUMAkkoIY_FO62AVEVFj2neeE93lnZKq--zCsJF7IuAp65kaAgAKEALw_wcB](https://blackwells.co.uk/bookshop/product/9781449604691?gclid=Cj0KCQjwwqXMBRCDARIsAD-AQ2g9wGEkLUMAkkoIY_FO62AVEVFj2neeE93lnZKq--zCsJF7IuAp65kaAgAKEALw_wcB)
-- **Gordis Epidemiology.** Gordis, L. (2014).  Philadelphia, PA: Elsevier Saunders (approx. £35). Available to purchase from: [https://www.uk.elsevierhealth.com/epidemiology-9781455737338.html](https://www.uk.elsevierhealth.com/epidemiology-9781455737338.html)
-- **Epidemiology: Beyond the Basics.** Ward H, Toledano M, Shaddick G, Davies B, Elliott P (2012) . Oxford University Press, Oxford UK. (Amazon price £26).
-
-- **Oxford Handbook of Epidemiology for Clinicians.** Ward et al. [https://oxfordmedicine.com/view/10.1093/med/9780198529880.001.0001/med-9780198529880](https://oxfordmedicine.com/view/10.1093/med/9780198529880.001.0001/med-9780198529880)
-
-- **Essential epidemiology: an introduction for students and health professionals.** Webb, P., Bain, C. and Page, A., 2016. . Cambridge University Press. [https://www.amazon.co.uk/Essential-Epidemiology-Introduction-Students-Professionals/dp/0521177316](https://www.amazon.co.uk/Essential-Epidemiology-Introduction-Students-Professionals/dp/0521177316)
-
 ### Statistics
 
 - **Essential Medical Statistics.** Kirkwood B and Sterne J (2003) (2nd ed). Blackwell Science Ltd. [https://www.amazon.co.uk/Essential-Medical-Statistics-Essentials-Kirkwood/dp/0865428719](https://www.amazon.co.uk/Essential-Medical-Statistics-Essentials-Kirkwood/dp/0865428719) 
 Chapters 2–5 will support what you learn in the term 1 statistics module.
 - **An Introduction to Medical Statistics.** Bland M (2015) (4th ed). Oxford University Press. An alternative excellent standard text book. This includes multiple choice and other questions at the end of chapters, which may be useful for revision purposes. [http://www-users.york.ac.uk/~mb55/intro/introcon.htm](http://www-users.york.ac.uk/~mb55/intro/introcon.htm) (accessed 25 July 2017) contains useful additional material. Chapters 4–7 will support what you learn in the term 1 statistics module.
-
-### Clinical Data Management
-
-- UK Biobank: Protocol for a large-scale prospective epidemiological resource. [http://www.ukbiobank.ac.uk/wp-content/uploads/2011/11/UK-Biobank-Protocol.pdf](http://www.ukbiobank.ac.uk/wp-content/uploads/2011/11/UK-Biobank-Protocol.pdf)
-- Surkis et al. Research data management, J Med Libr Assoc. 2015 Jul; 103(3): 154–156. [https://dx.doi.org/10.3163%2F1536-5050.103.3.011](https://dx.doi.org/10.3163%2F1536-5050.103.3.011)
-- Mcardle et al. Research data management 'Green Shoots' pilot programme, final reports, Imperial College London. [https://spiral.imperial.ac.uk:8443/handle/10044/1/28409](https://spiral.imperial.ac.uk:8443/handle/10044/1/28409)
 
 ### R programming
 
@@ -173,9 +149,9 @@ Chapters 2–5 will support what you learn in the term 1 statistics module.
 
 
 
-## Advice from previous HDA students <a name="student_advice"></a>
+## Advice from previous students <a name="student_advice"></a>
 
-We asked students on the 2019–2020 HDA course what advice they would give their past selves before starting the course. Their responses are below.
+We asked students from the 2019–2020 cohort what advice they would give their past selves before starting the course. Their responses are below.
 
 ### Before starting the course
 
